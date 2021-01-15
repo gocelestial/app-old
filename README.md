@@ -1,0 +1,3 @@
+Celestial is a Micropub client in pre-production that is no longer being developed on GitHub __or__ publicly. We have [moved to Codeberg.org](https://codeberg.org/gocelestial/app) as our primary git host. The source code __may__ be made available in the future.
+
+Please refer to the marketing/landing website for any and all details moving forward. I __may__ occasionally make blog posts around its development [on my blog](https://rusingh.com/).
